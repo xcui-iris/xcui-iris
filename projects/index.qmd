@@ -4,7 +4,7 @@ title: Working Papers
 
 ## Job Market Paper-Political Posturing vs. Reality: E-Verify and the Employment of Undocumented Immigrants
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" 
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" />
 
 The adoption of E-Verify mandates by various U.S. states aims
 to reduce unauthorized employment, yet our analysis reveals significant variations in their outcomes, using a synthetic control approach. We discuss the factors driving these variations, focusing on the key differences in political intentions and policy design. The study reveals that policymakers often pursue multiple objectives, aiming to
@@ -14,7 +14,6 @@ advance their political agendas while also minimizing the impact of immigration 
 
 ## Male Dominance in the Hiring of Foreign Guest Workers: Controversy and Spillover Effects
 
-<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" 
+<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" />
 
-Due to labor shortages and tightening immigration policies, the foreign guest workers program, also known as H-2A, has seen rapid growth. A rising concern within the H-2A program is its hiring practices, which are observed to predominantly recruit male workers. This imbalance has reportedly led to the layoffs of domestic female workers in some regions, highlighting potential gender disparities. This research paper investigates the potential spillover effects of the H-2A program’s controversial hiring practices on the domestic agricultural labor market. 
-
+Due to labor shortages and tightening immigration policies, the foreign guest workers program, also known as H-2A, has seen rapid growth. A rising concern within the H-2A program is its hiring practices, which are observed to predominantly recruit male workers. This imbalance has reportedly led to the layoffs of domestic female workers in some regions, highlighting potential gender disparities. This research paper investigates the potential spillover effects of the H-2A program’s controversial hiring practices on the domestic agricultural labor market.
